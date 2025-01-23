@@ -1,11 +1,9 @@
 package com.yagod.url_shortener_app.controller;
 
-import com.yagod.url_shortener_app.domain.dto.UrlPopularRequestDTO;
 import com.yagod.url_shortener_app.domain.dto.UrlPopularResponseDTO;
 import com.yagod.url_shortener_app.domain.dto.UrlRequestDTO;
 import com.yagod.url_shortener_app.domain.dto.UrlResponseDTO;
 import com.yagod.url_shortener_app.repositories.TopUrlRepository;
-import com.yagod.url_shortener_app.repositories.UrlRepository;
 import com.yagod.url_shortener_app.utils.CalculateTimeProc;
 import com.yagod.url_shortener_app.service.UrlService;
 import jakarta.servlet.http.HttpServletRequest;

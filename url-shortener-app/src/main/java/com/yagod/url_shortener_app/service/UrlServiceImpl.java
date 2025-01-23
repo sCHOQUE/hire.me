@@ -1,7 +1,6 @@
 package com.yagod.url_shortener_app.service;
 
 import com.yagod.url_shortener_app.domain.StatisticsResponse;
-import com.yagod.url_shortener_app.domain.dto.UrlPopularResponseDTO;
 import com.yagod.url_shortener_app.domain.dto.UrlRequestDTO;
 import com.yagod.url_shortener_app.domain.dto.UrlResponseDTO;
 import com.yagod.url_shortener_app.entities.UrlEntity;
